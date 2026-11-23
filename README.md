@@ -52,7 +52,7 @@ heart-disease-eda/
 ## Run it yourself
 
 ```bash
-git clone https://github.com/<your-username>/heart-disease-eda.git
+git clone https://github.com/SaeedHosseini94/heart-disease-eda.git
 cd heart-disease-eda
 pip install -r requirements.txt
 jupyter notebook heart_eda.ipynb
@@ -60,4 +60,4 @@ jupyter notebook heart_eda.ipynb
 
 ## Links
 
-- Kaggle notebook: [add link]
+- Kaggle notebook: (https://www.kaggle.com/code/ssaeedhm/exploratory-data-analysis-heart-disease-dataset)
